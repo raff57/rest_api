@@ -24,7 +24,7 @@ def getHome():
     '''
 
     return {
-        "msg": "Hello world"
+        "msg": "Hello world hiya hiya hiya"
     }
 
 
